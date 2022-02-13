@@ -1,4 +1,4 @@
-# Summary
+# Content
 
 This is a static demo website that consists of five separate pages (including the main page), one image, and one embedded video.
 
