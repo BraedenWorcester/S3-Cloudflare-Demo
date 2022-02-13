@@ -4,7 +4,7 @@ This is a static demo website that consists of an index page with an embedded im
 
 # Storage
 
-All web content as seen in this repository is stored on an Amazon S3 bucket, which has can be accessed from http://cs4843-ass1-bucket-hva124.s3-website-us-east-1.amazonaws.com. The bucket is configured to only allow "GetObject" requests from the public, and will otherwise deny access.
+All web content as seen in this repository is stored on an Amazon S3 bucket, which can be accessed from http://cs4843-ass1-bucket-hva124.s3-website-us-east-1.amazonaws.com. The bucket is configured to only allow "GetObject" requests from the public, and will otherwise deny access.
 
 # Distribution
 
