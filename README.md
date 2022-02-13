@@ -8,4 +8,5 @@ All web content as seen in this repository is stored on an Amazon S3 bucket, whi
 
 # Distribution/Access
 
-The website is accessible through https://d1qte0gvgnrpjd.cloudfront.net/ or the insecure http://d1qte0gvgnrpjd.cloudfront.net/. While the S3 bucket is normally inaccessible, an exception is made for Amazon's CloudFront service, which distributes the web content content globally.
+While the S3 bucket is normally inaccessible, an exception is made for Amazon's CloudFront service, which distributes the web content content globally. 
+The website is accessible through https://d1qte0gvgnrpjd.cloudfront.net/ or the insecure http://d1qte0gvgnrpjd.cloudfront.net/. Either URL will return 'index_v2.html', the main page.
