@@ -1,4 +1,4 @@
-# assignment1-cs4843
+# Summary
 
 This is a static demo website that consists of five separate pages (including the main page), one image, and one embedded video.
 
