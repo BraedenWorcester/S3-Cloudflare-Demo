@@ -13,4 +13,4 @@ The website is accessible through https://d1qte0gvgnrpjd.cloudfront.net/ or the 
 
 # Purpose and Outcome
 
-This project was an attempt to gauge the viability of hosting a static website on S3, and distributing it via CloudFront. With the ease of set up and fast global results, I have determined this to be a resoundingly potent method of getting a static website up and running.
+This project was an attempt to gauge the viability of hosting a static website on S3, and distributing it via CloudFront. With the ease of set up and fast global results, I have determined this to be a resoundingly effective method of getting a static website up and running.
