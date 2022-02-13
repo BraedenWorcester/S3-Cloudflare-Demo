@@ -1,6 +1,6 @@
 # Content
 
-This is a static demo website that consists of five separate linked pages (including the main page), one enbedded image, and one embedded video.
+This is a static demo website that consists of five separate linked pages (including the main page), one embedded image, and one embedded video.
 
 # Storage
 
